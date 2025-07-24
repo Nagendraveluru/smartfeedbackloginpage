@@ -1,0 +1,8 @@
+C:\Users\labadmin\login\backend-api\obj\Debug\net7.0\backend-api.csproj.AssemblyReference.cache
+C:\Users\labadmin\login\backend-api\obj\Debug\net7.0\rpswa.dswa.cache.json
+C:\Users\labadmin\login\backend-api\obj\Debug\net7.0\backend-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labadmin\login\backend-api\obj\Debug\net7.0\backend-api.AssemblyInfoInputs.cache
+C:\Users\labadmin\login\backend-api\obj\Debug\net7.0\backend-api.AssemblyInfo.cs
+C:\Users\labadmin\login\backend-api\obj\Debug\net7.0\backend-api.csproj.CoreCompileInputs.cache
+C:\Users\labadmin\login\backend-api\obj\Debug\net7.0\backend-api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\labadmin\login\backend-api\obj\Debug\net7.0\backend-api.MvcApplicationPartsAssemblyInfo.cache
