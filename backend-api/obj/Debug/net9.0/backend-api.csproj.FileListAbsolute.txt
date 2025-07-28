@@ -145,3 +145,4 @@ C:\Users\labadmin\login\backend-api\obj\Debug\net9.0\refint\backend-api.dll
 C:\Users\labadmin\login\backend-api\obj\Debug\net9.0\backend-api.pdb
 C:\Users\labadmin\login\backend-api\obj\Debug\net9.0\backend-api.genruntimeconfig.cache
 C:\Users\labadmin\login\backend-api\obj\Debug\net9.0\ref\backend-api.dll
+C:\Users\labadmin\login\backend-api\obj\Debug\net9.0\backend-api.sourcelink.json
