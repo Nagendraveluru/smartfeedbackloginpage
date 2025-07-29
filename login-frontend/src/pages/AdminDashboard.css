@@ -1,0 +1,65 @@
+.admin-dashboard {
+  padding: 2rem;
+  background: #f7f9fc;
+  min-height: 100vh;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.dashboard-title {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+.dashboard-count {
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+}
+
+.dashboard-actions {
+  margin-bottom: 1.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.btn {
+  padding: 10px 16px;
+  border: none;
+  border-radius: 6px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.export-btn {
+  background-color: #28a745;
+  color: white;
+}
+
+.export-btn:hover {
+  background-color: #218838;
+}
+
+.toggle-btn {
+  background-color: #007bff;
+  color: white;
+}
+
+.toggle-btn:hover {
+  background-color: #0069d9;
+}
+
+.chart-container {
+  margin-bottom: 2rem;
+  background: white;
+  border-radius: 10px;
+  padding: 1rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+}
+
+.chart-title {
+  font-size: 1.3rem;
+  margin: 1rem 0;
+  color: #444;
+}

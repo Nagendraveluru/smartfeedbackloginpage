@@ -1,0 +1,14 @@
+.history-card {
+  background-color: #f8f9fa;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+  border-left: 5px solid #007bff;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.history-card small {
+  color: #555;
+  display: block;
+  margin-top: 0.5rem;
+}

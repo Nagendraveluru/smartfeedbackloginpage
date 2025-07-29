@@ -10,5 +10,7 @@ namespace backend_api.Data
             : base(options) { }
 
         public DbSet<User> Users { get; set; }
+        public DbSet<Feedback> Feedbacks { get; set; }
+
     }
 }

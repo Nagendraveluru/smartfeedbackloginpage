@@ -1,0 +1,69 @@
+/* FeedbackForm.css */
+
+.feedback-container {
+  max-width: 600px;
+  margin: 40px auto;
+  background: linear-gradient(145deg, #ffffff, #f0f0f0);
+  padding: 30px 40px;
+  border-radius: 15px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.1);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.feedback-container h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 26px;
+  color: #333;
+}
+
+.feedback-container form {
+  display: flex;
+  flex-direction: column;
+}
+
+.feedback-container textarea {
+  resize: none;
+  padding: 15px;
+  font-size: 16px;
+  border: 2px solid #ddd;
+  border-radius: 10px;
+  background-color: #fefefe;
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.05);
+  transition: border 0.3s ease;
+}
+
+.feedback-container textarea:focus {
+  outline: none;
+  border-color: #00aaff;
+  box-shadow: 0 0 6px rgba(0, 170, 255, 0.4);
+}
+
+.feedback-container button {
+  margin-top: 20px;
+  padding: 12px;
+  background: linear-gradient(to right, #00c6ff, #0072ff);
+  border: none;
+  color: white;
+  font-size: 17px;
+  font-weight: bold;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease, background 0.3s ease;
+}
+
+.feedback-container button:hover {
+  background: linear-gradient(to right, #0072ff, #00c6ff);
+  transform: scale(1.03);
+}
+
+@media (max-width: 768px) {
+  .feedback-container {
+    padding: 20px;
+    margin: 20px;
+  }
+
+  .feedback-container h2 {
+    font-size: 22px;
+  }
+}
