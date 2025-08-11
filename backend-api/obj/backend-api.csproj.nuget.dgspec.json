@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\labadmin\\login\\backend-api\\backend-api.csproj": {}
+    "C:\\Users\\DELL\\OneDrive\\Desktop\\azurerepo\\smartfeedbackloginpage\\backend-api\\backend-api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\labadmin\\login\\backend-api\\backend-api.csproj": {
+    "C:\\Users\\DELL\\OneDrive\\Desktop\\azurerepo\\smartfeedbackloginpage\\backend-api\\backend-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\labadmin\\login\\backend-api\\backend-api.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\OneDrive\\Desktop\\azurerepo\\smartfeedbackloginpage\\backend-api\\backend-api.csproj",
         "projectName": "backend-api",
-        "projectPath": "C:\\Users\\labadmin\\login\\backend-api\\backend-api.csproj",
-        "packagesPath": "C:\\Users\\labadmin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\labadmin\\login\\backend-api\\obj\\",
+        "projectPath": "C:\\Users\\DELL\\OneDrive\\Desktop\\azurerepo\\smartfeedbackloginpage\\backend-api\\backend-api.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELL\\OneDrive\\Desktop\\azurerepo\\smartfeedbackloginpage\\backend-api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\labadmin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"

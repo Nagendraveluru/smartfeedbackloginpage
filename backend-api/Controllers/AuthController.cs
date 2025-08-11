@@ -1,4 +1,6 @@
 // Controllers/AuthController.cs
+
+//no changes have been done
 using backend_api.Data;
 using backend_api.Dtos;
 using backend_api.Models;
@@ -50,7 +52,7 @@ namespace backend_api.Controllers
                 return BadRequest(new { message = "Invalid Credentials" });
             }
 
-            return Ok(new { message = "User Login successfully" ,name=user.Username,email=user.Email} );
+            return Ok(new { message = "User Login successfully", name = user.Username, email = user.Email });
         }
     }
 }
